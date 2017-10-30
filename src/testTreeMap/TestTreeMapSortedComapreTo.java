@@ -18,7 +18,7 @@ public class TestTreeMapSortedComapreTo {
 		test.put(new Test2("jalapeno"), "koza");
 		test.put(new Test2("asdf"), "value");
 		//test.put("asdf", "value 123");
-		test.put(new Test2("csdf"), "value");
+		test.put(new Test2("asdf"), "value123");
 		
 		
 		Set<Test2> keys = test.keySet(); 
